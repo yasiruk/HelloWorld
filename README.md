@@ -1,4 +1,4 @@
 ## HelloWorld
 
-![build stat](http://yasiru.me/success.png "")
+![build stat](http://9b14ab0f.ngrok.io/buildListener/buildStat "")
 
