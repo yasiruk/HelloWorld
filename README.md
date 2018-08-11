@@ -1,4 +1,3 @@
 ## HelloWorld
-
-![build stat](http://9b14ab0f.ngrok.io/buildListener/buildStat?=dummy)(http://9b14ab0f.ngrok.io/buildListener/buildStat)
+[Check build status](http://9b14ab0f.ngrok.io/buildListener/buildStat)
 
